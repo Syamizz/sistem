@@ -1,3 +1,6 @@
+<?php
+    require 'conn.php';
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -14,5 +17,6 @@
         <input type="password" name="katalaluan" id="katalaluan">
         <button type ="submit">MASUK</button>
     </form>
+    
 </body>
 </html>
